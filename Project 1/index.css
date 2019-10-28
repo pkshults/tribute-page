@@ -1,0 +1,38 @@
+h1 {
+  text-align:center;
+  text-decoration: underline;
+
+
+}
+#list {
+  color: white;
+}
+#hunts {
+display: grid;
+grid-template-columns: 1;
+grid-template-rows: 3;
+}
+body{
+  background-image: url(https://wtnb.com/assets/images/About-US-484299868.jpg);
+}
+.topnav {
+  overflow: scroll;
+  background-color: #inherit;
+}
+.topnav a {
+  display: block;
+  color: black;
+  padding: 5px 5px;
+
+}
+
+
+
+}
+
+}
+#para {
+  text-align: center;
+  color: white;
+
+}

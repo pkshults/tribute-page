@@ -1,0 +1,33 @@
+#main {
+
+
+}
+body {
+  background-color: brown;
+}
+#title {
+  font-size: 50px;
+  text-align: center;
+}
+#image {
+  height: auto;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 100%;
+  align-items: center;
+  display: block;
+}
+#img-div {
+  margin: auto;
+  width: 50%;
+}
+#img-caption {
+  max-width: 100%
+}
+#tribute-info {
+
+}
+
+#center-image{
+  align-items: center;
+}
